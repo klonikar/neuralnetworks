@@ -1,5 +1,7 @@
 #Deep Neural Networks with GPU support
 
+Tutorial on neural networks by Ivan Vasilev: https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks
+
 This is a Java implementation of some of the algorithms for training deep neural networks. GPU support is provided via the OpenCL and Aparapi.
 The architecture is designed with modularity, extensibility and pluggability in mind.
 
